@@ -3,8 +3,11 @@ A talkbot ANN created through machine learning
 
 # MANDATORY PACKAGES
 ->pip upgraded packages
+
 ->speechrecognition packages
+
 ->audio packages
+
 ->speech sythesizer packages
 
 # INSTALLATION OF PACKAGES
