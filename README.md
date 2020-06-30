@@ -1,13 +1,13 @@
 # ANN-TALKBOT
 A talkbot ANN created through machine learning
 
-#MANDATORY PACKAGES
+# MANDATORY PACKAGES
 ->pip upgraded packages
 ->speechrecognition packages
 ->audio packages
 ->speech sythesizer packages
 
-#INSTALLATION OF PACKAGES
+# INSTALLATION OF PACKAGES
 ->pip
   *pip install chatterbot==0.8.6
   upgrade the pip
